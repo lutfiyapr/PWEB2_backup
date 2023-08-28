@@ -1,0 +1,68 @@
+baris ke 28 - 30
+nilai y = 1
+nilai z = 1
+jika nilai y % z == 0 maka nilai c akan berubah menjadi 1 ( 1 % 1 = 0 )
+
+baris ke 31
+menambahkan nilai z yang awalnya 1 menjadi 2
+
+baris 32
+lakukan lagi perulangan jika nilai z kurang dari y ( z = 2, y = 1 ) maka keluar perulangan
+
+baris ke 33
+tidak berjalan karena nilai c masih 1
+
+baris ke 36
+menambahkan nilai y menjadi 2
+
+baris ke 37
+lakukan lagi perulangan jika nilai y kurang dari sama dengan 20
+karena nilai y masih bernilai 2, maka lakukan kembali perulangan
+
+
+nilai sekarang :
+c = 1
+y = 2
+z = 2
+
+
+kembali ke baris 25
+c = 0
+y = 2 ( sebelumnya 1 )
+z = 1
+
+baris ke 28
+apakah nilai y(2) % z(1) == 0? (iya), maka nilai c yang awalnya 0 menjadi 1
+
+baris 31
+z(1) + 1 = 2
+
+baris 32
+ulang kembali apabila z(2) <= y(2)
+
+kembali ke baris 28
+apakah nilai y(2) % z(2) == 0? (iya), maka nilai c yang sebelumnya 1,kini menjadi 2 karena di baris ke 29 melakukan penambahan 1 pada c
+
+baris 31
+nilai z(2) + 1 = 3
+
+baris 32
+ulang kembali apabila z(3) <= y(2)
+
+pemaparan nilai saat ini
+c = 2
+y = 2
+z = 3
+
+baris 33
+apabila c == 2, maka :
+print nilai y(2)
+
+baris 36
+nilai y(2) + 1 = 3
+
+baris 37
+lakukan kembali perulangan apabila y(3) kurang dari sama dengan 20
+
+
+
