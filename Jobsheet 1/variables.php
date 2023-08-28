@@ -8,14 +8,14 @@
 <body>
     <?php
     //Pendeklarasian Variabel
-    $intg=25; //contoh variabel untuk integer
-    $str="Praktikum Web 2"; // contoh variabel untuk string
-    $bl=true; //contoh variabel untuk boolean
+    $integer=25; //contoh variabel untuk integer
+    $string="Praktikum Web 2"; // contoh variabel untuk string
+    $boolean=true; //contoh variabel untuk boolean
 
     //output
-    echo "Ini contoh penerapan Integer $intg </br>"; //menampilkan output variabel dengan value 25 dan memberikan enter
-    echo "Ini contoh penerapan String $str </br>"; //menampilkan output variabel dengan value Praktikum Web 2 dan memberikan enter
-    echo "Ini contoh penerapan Boolean $bl </br>";//menampilkan output variabel dengan value True dan memberikan enter
+    echo "Ini contoh penerapan Integer $integer </br>"; //menampilkan output variabel dengan value 25 dan memberikan enter
+    echo "Ini contoh penerapan String $string </br>"; //menampilkan output variabel dengan value Praktikum Web 2 dan memberikan enter
+    echo "Ini contoh penerapan Boolean $boolean </br>";//menampilkan output variabel dengan value True dan memberikan enter
     ?>
 </body>
 </html>
