@@ -17,7 +17,7 @@
         //menampilkan variabel lowercase
         echo strtolower ("$text</br>");
         //memotong isi variabel(string) pada bagian tertentu
-        echo substr($text, 8, 11);
+        echo substr($text, 8, 12);
         //kenapa finish di 11?
         //karena setelah menaruh 8 sebagai start, maka huruf (B)elajar bukan lagi huruf ke 8, tetapi menjadi huruf ke 0/reset
     ?>
