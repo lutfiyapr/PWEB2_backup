@@ -1,0 +1,3 @@
+public = dapat dipanggil dimapaun / global
+protected = dapat dipanggil diluar class tetapi harus didalam extendnya atau warisannya
+private = hanya dapat dipanggil dalam classnya
