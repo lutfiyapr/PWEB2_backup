@@ -1,0 +1,7 @@
+jobsheet 2 materi
+construct = menambahkan data pada bagian paling atas / seperti header
+destruct = menambahkan data pada bagian paling bawah / seperti footer
+enkapsulasi = metode untuk mengatur struktur pada class
+publik = metode enkapsulasi secara bebas atau global
+private = metode enkapsulasi yang harus dilakukan didalam class
+protected = metode enkapsulasi yang tidak dapat dilakukan diluar class / harus didalam class atau dengan menggunakan ekstend class
